@@ -1,0 +1,65 @@
+{
+  "total_students": 10000,
+  "top_10": [
+    {
+      "student_id": "S00003",
+      "GPA": 4.0,
+      "final_exam_score": 100.0,
+      "country": "Canada"
+    },
+    {
+      "student_id": "S00005",
+      "GPA": 4.0,
+      "final_exam_score": 100.0,
+      "country": "Australia"
+    },
+    {
+      "student_id": "S00006",
+      "GPA": 4.0,
+      "final_exam_score": 96.0,
+      "country": "France"
+    },
+    {
+      "student_id": "S00007",
+      "GPA": 4.0,
+      "final_exam_score": 100.0,
+      "country": "Netherlands"
+    },
+    {
+      "student_id": "S00018",
+      "GPA": 4.0,
+      "final_exam_score": 100.0,
+      "country": "Brazil"
+    },
+    {
+      "student_id": "S00022",
+      "GPA": 4.0,
+      "final_exam_score": 96.0,
+      "country": "USA"
+    },
+    {
+      "student_id": "S00023",
+      "GPA": 4.0,
+      "final_exam_score": 98.0,
+      "country": "USA"
+    },
+    {
+      "student_id": "S00028",
+      "GPA": 4.0,
+      "final_exam_score": 100.0,
+      "country": "Netherlands"
+    },
+    {
+      "student_id": "S00032",
+      "GPA": 4.0,
+      "final_exam_score": 100.0,
+      "country": "France"
+    },
+    {
+      "student_id": "S00033",
+      "GPA": 4.0,
+      "final_exam_score": 100.0,
+      "country": "India"
+    }
+  ]
+}
